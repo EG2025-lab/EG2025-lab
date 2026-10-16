@@ -6,6 +6,8 @@ I am building SOPHIA to help pharmacists navigate official medicines documentati
 
 FarmAI, our custom GPT, is the starting point. SOPHIA is the standalone application now in development, with a restricted beta. The public repository shares documentation, evaluation proposals and collaboration opportunities; application source code is not published there.
 
+Current restricted beta: **0.7.83**, 16 October 2026. The documentary-language privacy repair passes offline and deployment checks; real manual acceptance remains pending. No new live model question was run on 83 and general professional rollout remains NO-GO. [Current status and limits](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/STATUS.md).
+
 ### Let's build and evaluate together
 
 I welcome **developers, AI researchers, pharmacists and research groups** interested in source retrieval, RCP/FI document reading, grounded answers and meaningful professional evaluation. A first contribution can be small and use public-source metadata or a protocol review without paid model calls.
