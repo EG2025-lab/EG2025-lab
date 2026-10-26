@@ -4,9 +4,9 @@
 
 I am building SOPHIA to help pharmacists navigate official medicines documentation, Italian pharmaceutical legislation, clinical evidence and guidelines in one professional conversation. Our goals are to reduce information fragmentation and workload, help reduce errors and improve pharmacy service. Their impact still needs to be measured.
 
-FarmAI, our custom GPT, is the starting point. SOPHIA is the standalone application now in development, with a restricted beta. The public repository shares documentation, evaluation proposals and collaboration opportunities; application source code is not published there.
+FarmAI is available as original custom GPTs and private Business plugins derived from their copies. SOPHIA is a separate application under development, with its own restricted beta. The public repository shares documentation, evaluation proposals and collaboration opportunities; application source code is not published there.
 
-Current restricted beta: **0.7.87**, 17 October 2026. AIFA identity, coverage, provenance and repeatability repairs are technically qualified. Twenty original readings: eighteen bound, two explicit gaps; no new live model answer on 87. Latest live 85: two scoped passes, one utility failure and zero privacy blocks. General rollout remains NO-GO. [Status and limits](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/STATUS.md).
+Current restricted beta: **0.7.88**, reviewed on 26 October 2026. GPT-6.1 Sol low with controlled escalation and Action-first, declared web recovery. Six complete answers to three general documentary questions repeated twice passed scoped technical and AI-assisted documentary review, with agreeing cores and detail variations. This is not general repeatability or human clinical validation; professional rollout remains **NO-GO**. [Status and limits](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/STATUS.md).
 
 ### Let's build and evaluate together
 
