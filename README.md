@@ -6,7 +6,7 @@ I am building SOPHIA to help pharmacists navigate official medicines documentati
 
 FarmAI is available as original custom GPTs and private Business plugins derived from their copies. SOPHIA is a separate application under development, with its own restricted beta. The public repository shares documentation, evaluation proposals and collaboration opportunities; application source code is not published there.
 
-Current deployed beta: **0.7.101-beta**, owner-approved access only. The Stealth survey and optional waitlist remain separate from beta access; payments and automatic admission are inactive. Adaptive routing uses Luna/Terra for bounded source work and Sol for complex tasks and review. Four new real UI questions on 100 produced three complete responses and one storage failure. The 101 corrective release passed 1,539 offline checks and container verification; no new real replay was run under the owner cap. This is not general repeatability or human clinical validation. [Current status and limits](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/STATUS.md).
+Current deployed beta: **0.7.103-beta**, owner-approved access only; payments inactive. Verified RCP/PIL reading now feeds a Sol low AI answer with independent review. Three real UI questions on parent 102 had mixed usefulness. The corrective 103 release passed 1,664 offline checks and container verification, without another real question under the owner cap. History, the versioned Clinical Algorithm beta, security and curated method memory were also improved. Speed, repeatability and human clinical validation remain open. [Current status and limits](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/STATUS.md).
 
 ### Let's build and evaluate together
 
