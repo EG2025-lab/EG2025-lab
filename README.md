@@ -6,7 +6,7 @@ I am building SOPHIA to help pharmacists navigate official medicines documentati
 
 FarmAI is available as original custom GPTs and private Business plugins derived from their copies. SOPHIA is a separate application under development, with its own restricted beta. The public repository shares documentation, evaluation proposals and collaboration opportunities; application source code is not published there.
 
-The deployed professional beta remains **0.7.116-beta**, restricted to owner-approved users; payments and answer charging are inactive. The owner stopped an identical six-case replay after **one real input** failed for API quota or credit exhaustion. Five cases were not submitted; no final116answer was delivered. [Current status](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/STATUS.md).
+The deployed professional beta is **0.7.118-beta**, restricted to owner-approved users; payments and answer charging remain inactive. It retains the common-cause repairs from six114cases and adds corrections derived from the owner-stopped116replay. No new real118question or paid model call. [Current status](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/STATUS.md).
 
 ### Let's build and evaluate together
 
