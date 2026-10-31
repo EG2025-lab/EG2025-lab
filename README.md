@@ -6,11 +6,11 @@ I am building SOPHIA to help pharmacists navigate official medicines documentati
 
 FarmAI is available as original custom GPTs and private Business plugins derived from their copies. SOPHIA is a separate application under development, with its own restricted beta. The public repository shares documentation, evaluation proposals and collaboration opportunities; application source code is not published there.
 
-The deployed professional beta is **0.7.119-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/STATUS.md).
+The deployed professional beta is **0.7.120-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/STATUS.md).
 
-Six new real questions were submitted on **118**: five final answers, two useful within the internally assessed scope, three partial and one reviewer timeout without a final answer. Complete transcripts and versioned evidence are retained. This is a narrow AI-assisted internal assessment, not human clinical validation.
+Six new natural counter questions were submitted on **119**: six final answers, three useful within the internally assessed scope and three partial, with no failed submission. Full transcripts and versioned evidence are retained. This narrow AI-assisted internal assessment is not human clinical validation.
 
-No own **119** real answer, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. Provider timeouts and source-currentness/access limits remain possible. The six 118 tests do not qualify 119 as a runtime answer PASS. Reports and previous packages are preserved. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+No further real question was submitted after those six. No own **120** real-answer acceptance, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. Ordinary partial dispensing remains unresolved in the applicable legal scope; local collection instructions are not national law. Reports and previous packages are preserved. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 
 ### Let's build and evaluate together
