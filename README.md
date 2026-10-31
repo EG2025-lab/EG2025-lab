@@ -6,11 +6,11 @@ I am building SOPHIA to help pharmacists navigate official medicines documentati
 
 FarmAI is available as original custom GPTs and private Business plugins derived from their copies. SOPHIA is a separate application under development, with its own restricted beta. The public repository shares documentation, evaluation proposals and collaboration opportunities; application source code is not published there.
 
-The deployed professional beta is **0.7.120-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/STATUS.md).
+The deployed professional beta is **0.7.121-beta**, restricted to owner-approved users; payments and answer charging remain inactive. [Current status](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/STATUS.md).
 
-Six new natural counter questions were submitted on **119**: six final answers, three useful within the internally assessed scope and three partial, with no failed submission. Full transcripts and versioned evidence are retained. This narrow AI-assisted internal assessment is not human clinical validation.
+Ten new natural counter questions were submitted once each on **120**. Ten final responses were delivered: **six useful within the internally assessed scope, two partial and two without the requested facts**. No engine timeout was observed. A safe abstention or delivered response is not a complete answer PASS. Full transcripts and primary-source comparisons are retained; this is not human clinical validation.
 
-No further real question was submitted after those six. No own **120** real-answer acceptance, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. Ordinary partial dispensing remains unresolved in the applicable legal scope; local collection instructions are not national law. Reports and previous packages are preserved. FarmAI GPTs and Business plugins retain content **0.7.7.155**.
+No further real question was submitted after the ten. No own **121** real-answer acceptance, general repeatability, controlled speed/cost improvement, FarmAI parity, SLA or human clinical validation is established. A balanced updated magnesium evidence comparison and ordinary partial dispensing remain open. Technical source access does not prove legal currency, personal entitlement or applicability. Historical reports/packages remain intact; FarmAI GPTs and Business plugins retain content **0.7.7.155**.
 
 
 ### Let's build and evaluate together
