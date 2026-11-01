@@ -24,3 +24,6 @@ I welcome **developers, AI researchers, pharmacists and research groups** intere
 Sono farmacista e sto sviluppando SOPHIA per avvicinare le fonti utili al lavoro in farmacia. Cerco persone con cui migliorare e valutare il progetto: farmacisti, sviluppatori, esperti AI e ricercatori. Puoi iniziare dalla [presentazione italiana](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/README.it.md) o contattarmi attraverso il sito.
 
 Technical progress, answer usefulness and clinical validation are reported separately. No university partnership, clinical performance certification or overall regulatory conformity is claimed. Please keep patient data, credentials and confidential information out of public contributions.
+
+
+**Language and process gate — 1 November 2026: NO-GO.** Beta137: the new language and process gate has not passed.30,000internal combinations,10,000per domain:21,166PASS and8,834FAIL against technical oracles. These combine300formulations with contexts, references and task modes, not30,000AI answers or independent paraphrases. Gaps concern AIFA paraphrases/references, negation, clinical needs and a false block of a legal-document question. Cues are incomplete: a FAIL does not prove a wrong real answer.2,002Python regressions and57UI tests under the new command passed;0new model answers. Next phase held, no new app release or bridge change.
