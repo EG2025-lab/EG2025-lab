@@ -1,5 +1,13 @@
 # Enrico Giuliano
 
+Beta 139 is live. New 10,000-case AIFA corpus and 180,400 internal checks passed; 2,031 Python and 57 UI. Ten new real AIFA tests: nine delivered answers, six useful within scope, three partial and one API error. Candidate 140 is NOT deployed: mandatory RCP/PIL comparison and EAN product-web path, with 2,050 Python/57 UI and 10,000 boundary cases passed; no own real test. API schema error remains open. No clinical validation.
+
+[Current status / Stato corrente](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency).
+
+---
+
+## Previous documentation and evidence (historical)
+
 **Pharmacist · Founder & Product Lead of [SOPHIA](https://github.com/EG2025-lab/sophia-pharmacy) · Italy**
 
 I am building SOPHIA to help pharmacists navigate official medicines documentation, Italian pharmaceutical legislation, clinical evidence and guidelines in one professional conversation. Our goals are to reduce information fragmentation and workload, help reduce errors and improve pharmacy service. Their impact still needs to be measured.
