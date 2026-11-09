@@ -1,3 +1,21 @@
+# Enrico Giuliano
+
+## Stato verificato / Verified status — 9 November 2026
+
+**SOPHIA 0.7.210 beta** è pubblicata per gli utenti già autorizzati. Correzioni generali AIFA conservano tutte le classificazioni di fornitura e migliorano le letture FI/RCP. La 210 supera 2.581 test nella propria immagine; il bridge qualificato identico supera 639 test senza skip. Una correzione finale del controllo delle domande passa 12 varianti e 11 controprove, senza una nuova risposta completa AI sulla 210.
+
+Il lotto comprende 20 invii UI (15 ordinari, 5 Ultrafast), 17 sulla208 e3 sulla209:19ammessi e1falso blocco prima dei modelli, corretto localmente. Gli ultimi2quesiti misti si fermano al controllo prudenziale di budget. Esiti misti, non20risposte corrette e non20test sulla versione finale. Lo studio precedente di2.500controlli fonte resta sotto la soglia documentale. Il miglioramento su10binding noti da3a10 è una prova locale, non accuratezza generale. Restano accettazione professionale e validazione clinica umana.
+
+**SOPHIA 0.7.210 beta** is published for existing authorized users. Its own image passes2,581 tests; the unchanged qualified bridge passes639 without skips. The new lot contains20 UI submissions,17 on208 and3 on209:19admitted and1false pre-model rejection corrected locally. The final2mixed requests stop at the conservative budget guard. Results are mixed, not20correct answers or20tests on the final version. The earlier2,500source-check study remains below its documentary threshold; known local improvements do not establish general accuracy. Professional acceptance and human clinical validation remain open.
+
+Site138 / assessment2026-11-09-r105. All16 maturity scores,19 room states and6 gates retained. FarmAI Builder and SOPHIA versions remain distinct. Autonomous GitHub bots remain suspended; this update is manual.
+
+[Stato e limiti / Current status and limitations](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
+
+---
+
+Historical documentation below retains its dated scope and is not the current deployment pointer.
+
 ## Verified status — 8 November 2026
 
 The available restricted beta remains **SOPHIA 0.7.190**. Candidate **0.7.199** is technically qualified and loaded in private staging, with its version visible in the app; it has not been promoted for pharmacy-counter use.
