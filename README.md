@@ -1,3 +1,35 @@
+## Stato corrente verificato — 2026-11-11
+
+**SOPHIA 0.7.231 beta** è disponibile per gli utenti già autorizzati. La ricerca clinica dà priorità alle banche dati e può leggere fonti web pubbliche pertinenti quando mancano passaggi utilizzabili. Un abstract è dichiarato come tale. Gli stampati AIFA restano legati alla confezione e all’API ufficiale, con le incompatibilità esplicitate.
+
+Lo studio pre-AI copre **12.000 scenari**: 4.000 AIFA, 4.000 Normativa e 4.000 Clinical Evidence con ToolUniverse; include percorsi web per integratori e cosmetici. Ha prodotto **7.792 PASS tecnici e 4.208 lacune sicure**, senza generazione AI. Sono prove di ingegneria, non risposte complete o copertura dell’intera banca dati.
+
+I **20 invii reali in staging**, su 227–230, includevano tutti AIFA: **15 ordinari e cinque Ultrafast**, con 10 risposte utili complete, quattro utili parziali e sei fallimenti. Quattro confronti a coppie concordano sui fatti essenziali. La 231 supera **2.771 test app**, più **702 test sull’identico bridge già qualificato**, zero skip e nuovi controlli di risorse e fonti. Nessuna nuova risposta completa a pagamento sulla 231. Accettazione al banco e validazione clinica umana restano aperte.
+
+Sito **141**, riesame **2026-11-11-r108**. Confermati 16 punteggi, 19 stati e sei gate. FarmAI Builder e plugin privati Business restano canali distinti. Rimane in vigore la sospensione dei bot autonomi GitHub.
+
+[Stato e limiti](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
+
+---
+
+Il materiale datato qui sotto è storico.
+
+## Current verified status — 2026-11-11
+
+**SOPHIA 0.7.231 beta** is available to existing authorised users. It prioritises clinical databases and can recover relevant public source text when the direct clinical route yields no usable passage. An abstract is labelled as such. AIFA medicine documents remain tied to the exact pack and official API, with mismatches reported explicitly.
+
+The pre-AI source study comprised **12,000 scenarios**: 4,000 AIFA, 4,000 legislation and 4,000 Clinical Evidence with ToolUniverse, with supplement and cosmetic web paths also exercised. It recorded **7,792 technical passes and 4,208 safe gaps**, without model generation. These are engineering scenarios, not complete answers or exhaustive database coverage.
+
+The **20 real staging submissions** on versions 227–230 each included AIFA: **15 ordinary and five Ultrafast**, with 10 useful complete answers, four useful partial answers and six failures. Four paired cases agreed on core facts. The final 231 app image passed **2,771 tests**, with **702 tests on the exact previously qualified bridge**, no skips, and fresh resource and source checks. No new paid complete answer ran on 231. Counter acceptance and human clinical validation remain open.
+
+Site version **141**, assessment **2026-11-11-r108**. All 16 maturity ratings, 19 room states and six roadmap gates were reviewed and retained. FarmAI Builder and private Business plugins are separate product channels. The mandated autonomous GitHub workflow suspension remains in place.
+
+[Current status and limits](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
+
+---
+
+Dated material below is historical.
+
 ## Stato corrente verificato — 2026-11-10
 
 **SOPHIA 0.7.222 beta** è pubblicata per gli utenti già autorizzati, dopo correzioni generali dei lettori AIFA, della ricerca clinica e del coordinamento fra domini. Le proprie immagini superano **2.691 test app e 692 test bridge, senza skip**. Passano 48 controlli ripetuti e il replay di 5.000 osservazioni fonte salvate, conservando lacune e negativi: il replay non è una nuova batteria API live o di risposte cliniche.
