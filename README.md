@@ -1,3 +1,39 @@
+## Stato corrente verificato — 2026-11-10
+
+**SOPHIA 0.7.222 beta** è pubblicata per gli utenti già autorizzati, dopo correzioni generali dei lettori AIFA, della ricerca clinica e del coordinamento fra domini. Le proprie immagini superano **2.691 test app e 692 test bridge, senza skip**. Passano 48 controlli ripetuti e il replay di 5.000 osservazioni fonte salvate, conservando lacune e negativi: il replay non è una nuova batteria API live o di risposte cliniche.
+
+Lo studio fonte comprende **5.000 scenari di ingegneria correlati**, 130 famiglie, 400 AIC, 20 PMID e riferimenti a cinque atti. Il gate tecnico è raggiunto nel suo ambito dopo 19 recuperi tecnici dichiarati; rimangono 180 astensioni per soli metadati e sei sospensioni del binding di presentazione. Non copre l’intera banca dati AIFA e non è validazione clinica. Il precedente studio di 2.500 conserva il suo FAIL documentale.
+
+Su **20 domande reali previste sono stati eseguiti 16 invii UI**, nelle versioni 213, 215, 216, 217 e 221: **11 ordinari e cinque Ultrafast**. Dodici completamenti tecnici comprendono risposte parziali e bisogni irrisolti; quattro invii falliscono. Quattro domande **non sono eseguite per il controllo prudenziale di spesa**. Non sono 20 PASS o 16 test sulla versione finale. L’ultimo quesito naturale mostra un’omonimia fra parola anatomica e nome nel catalogo, con letture parziali ripetute; la 222 corregge localmente i meccanismi e conserva identità e lacune. **Nessuna nuova risposta completa AI a pagamento sulla 222.**
+
+La continuità al banco è un criterio esplicito: conservare quando possibile le informazioni indipendenti verificate, spiegare la lacuna concreta e applicare un controllo nuovo e completo a ogni eventuale residuo parziale. Restano accettazione professionale, ripetibilità delle risposte complete, cause modello/fonte non dimostrate e validazione clinica umana.
+
+Sito **139**, riesame **2026-11-10-r106**. **16 punteggi, 19 stati e sei gate confermati**. FarmAI Builder e plugin privati Business mantengono le proprie versioni. Mandato di sospensione dei bot GitHub preservato; aggiornamento manuale senza riattivazioni. Accessi, modelli e normale politica di utilizzo della beta preservati.
+
+[Stato e limiti](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
+
+---
+
+La documentazione storica datata qui sotto conserva il proprio ambito e non è il puntatore corrente del rilascio.
+
+## Current verified status — 2026-11-10
+
+**SOPHIA 0.7.222 beta** is published for existing authorized users after general corrections to AIFA reading, clinical source discovery and cross-domain coordination. Its own immutable images pass **2,691 app tests and 692 bridge tests, without skips**. Forty-eight repeated reader controls and replay of 5,000 saved source observations preserve the original gaps and negative outcomes; replay is not a new live API or clinical-answer battery.
+
+The live source study comprises **5,000 correlated engineering scenarios**, 130 families, 400 AICs, 20 PMIDs and references across five acts. Its scoped technical gate is met after 19 declared technical recoveries; 180 metadata-only abstentions and six presentation-binding holds remain. It is not exhaustive AIFA coverage or clinical validation. The earlier 2,500-study documentary failure remains preserved.
+
+Of **20 planned real questions, 16 UI submissions ran** across versions 213, 215, 216, 217 and 221: **11 ordinary and five Ultrafast**. Twelve reached technical completion, including partial answers and unmet needs; four failed. Four further questions were **not run because of the conservative spending guard**. This is not 20 passes or 16 tests on the final version. The last natural question exposed an anatomical/catalogue-name homonym and repeated partial reading; version 222 corrects the mechanisms locally while preserving source identity and every gap. **No new paid full answer was run on 222.**
+
+Workflow continuity is an explicit requirement: retain independently verified useful information where possible, state the concrete gap, and apply a fresh complete review to any partial remainder. Professional counter acceptance, complete-answer repeatability, remaining model/source causes and human clinical validation stay open.
+
+Site **139**, assessment **2026-11-10-r106**. All **16 maturity scores, 19 room states and six roadmap gates are retained**. FarmAI Builder and private Business plugin versions are unchanged. The mandated suspension of autonomous GitHub bots is preserved; this manual documentation update contains no reactivation action. Access, models and the ordinary beta usage policy are preserved.
+
+[Current status and limitations](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
+
+---
+
+Dated historical documentation below retains its own scope and is not the current deployment pointer.
+
 # Enrico Giuliano
 
 ## Stato verificato / Verified status — 9 November 2026
