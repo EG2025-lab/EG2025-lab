@@ -8,7 +8,7 @@ Su **20 domande reali previste sono stati eseguiti 16 invii UI**, nelle versioni
 
 La continuità al banco è un criterio esplicito: conservare quando possibile le informazioni indipendenti verificate, spiegare la lacuna concreta e applicare un controllo nuovo e completo a ogni eventuale residuo parziale. Restano accettazione professionale, ripetibilità delle risposte complete, cause modello/fonte non dimostrate e validazione clinica umana.
 
-Sito **139**, riesame **2026-11-10-r106**. **16 punteggi, 19 stati e sei gate confermati**. FarmAI Builder e plugin privati Business mantengono le proprie versioni. Mandato di sospensione dei bot GitHub preservato; aggiornamento manuale senza riattivazioni. Accessi, modelli e normale politica di utilizzo della beta preservati.
+Sito **140**, riesame **2026-11-10-r107**. **16 punteggi, 19 stati e sei gate confermati**. FarmAI Builder e plugin privati Business mantengono le proprie versioni. Mandato di sospensione dei bot GitHub preservato; aggiornamento manuale senza riattivazioni. Accessi, modelli e normale politica di utilizzo della beta preservati.
 
 [Stato e limiti](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
 
@@ -26,7 +26,7 @@ Of **20 planned real questions, 16 UI submissions ran** across versions 213, 215
 
 Workflow continuity is an explicit requirement: retain independently verified useful information where possible, state the concrete gap, and apply a fresh complete review to any partial remainder. Professional counter acceptance, complete-answer repeatability, remaining model/source causes and human clinical validation stay open.
 
-Site **139**, assessment **2026-11-10-r106**. All **16 maturity scores, 19 room states and six roadmap gates are retained**. FarmAI Builder and private Business plugin versions are unchanged. The mandated suspension of autonomous GitHub bots is preserved; this manual documentation update contains no reactivation action. Access, models and the ordinary beta usage policy are preserved.
+Site **140**, assessment **2026-11-10-r107**. All **16 maturity scores, 19 room states and six roadmap gates are retained**. FarmAI Builder and private Business plugin versions are unchanged. The mandated suspension of autonomous GitHub bots is preserved; this manual documentation update contains no reactivation action. Access, models and the ordinary beta usage policy are preserved.
 
 [Current status and limitations](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
 
