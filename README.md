@@ -1,10 +1,10 @@
 ## SOPHIA — 19 novembre 2026
 
-La beta riservata è alla **0.7.231**, con ripristino operativo da verificare. Lo staging ordinario è alla **0.7.453**. L’anteprima **0.7.512** ha superato la qualifica tecnica e una prova completa Ultrafast. Una seconda prova mista si è fermata alla verifica finale. La vetrina **Sites 150** descrive il Test Luna, che si ferma dopo ogni 25 nuovi esiti verificati e riprende dopo le correzioni e la qualifica della nuova versione.
+La beta riservata è alla **0.7.231**, con ripristino operativo da verificare. Lo staging ordinario è alla **0.7.453**. L’anteprima **0.7.513** ha superato la qualifica tecnica con riprove a fonti reali. La vetrina **Sites 151** descrive il Test Luna, che si è fermato a 25 nuovi esiti verificati per il riesame.
 
 [Strategia di testing e roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing) · [Documentazione SOPHIA](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md)
 
-The restricted beta is on **0.7.231** and standard staging is on **0.7.453**. Private preview **0.7.512** passed technical qualification and one complete Ultrafast sample. A second mixed sample stopped at final verification. Test Luna pauses after 25 new verified outcomes and resumes after fixes and staging qualification. Counter acceptance and human clinical validation remain open.
+The restricted beta is on **0.7.231**. Standard staging is on **0.7.453**. Private preview **0.7.513** is technically qualified with live-source replays. Test Luna paused at 25 verified outcomes for review. Counter acceptance and human clinical validation remain open.
 
 ---
 
