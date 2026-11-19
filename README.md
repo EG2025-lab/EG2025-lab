@@ -1,10 +1,10 @@
 ## SOPHIA — 19 novembre 2026
 
-La beta riservata è alla **0.7.231** e lo staging ordinario è alla **0.7.453**. L’anteprima privata **0.7.560** ha superato **3.883 test applicativi** e le verifiche di continuità di profilo, memoria e cronologia. La vetrina **Sites 166** riporta la qualifica in corso e gli esiti del **Test completo 0.7.558**. Restano da completare l’accettazione al banco e la validazione clinica umana.
+La **0.7.561** è attiva al 100% nella beta riservata e nello staging ordinario. Ha superato **3.886 test locali** e include l’accesso **Special Guest** su invito del titolare, senza PEC. Pagamenti e addebiti sul credito sono disattivati. Il rilascio è un’eccezione alla cadenza di una versione ogni 20, che riprende dalla **0.7.580**.
 
-The restricted beta is on **0.7.231**, standard staging is on **0.7.453** and private preview **0.7.560** passed **3,883 application tests** and profile, memory and history continuity checks. **Sites 166** reports release qualification progress and the 0.7.558 end-to-end results. Counter acceptance and human clinical validation remain open.
+Version **0.7.561** serves 100% of standard staging and restricted beta traffic. It passed **3,886 local tests** and includes an owner-invited **Special Guest** route without certified email. Counter acceptance and human clinical validation remain open.
 
-[Strategia di testing e roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing) · [Documentazione SOPHIA](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md)
+[Stato pubblico · Sites 167](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Strategia di testing](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing) · [Documentazione SOPHIA](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md)
 
 ---
 
