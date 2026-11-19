@@ -1,10 +1,10 @@
 ## SOPHIA — 19 novembre 2026
 
-La beta riservata resta alla **0.7.231**, con ripristino operativo da verificare. Lo staging ordinario è alla **0.7.453**. L’anteprima **0.7.500** è qualificata tecnicamente e le due prove complete osservate riguardano la **0.7.495**. La vetrina **Sites 147** descrive il Test Luna. Ogni 25 nuovi esiti verificati gli invii si fermano per il riesame. Ripartono con la nuova versione, dopo le correzioni e la qualifica in staging.
+La beta riservata resta alla **0.7.231**, con ripristino operativo da verificare. Lo staging ordinario è alla **0.7.453**. L’anteprima **0.7.511** è qualificata tecnicamente per distinguere i PDF integrali dagli estratti nelle ricevute. Le due prove complete osservate riguardano la **0.7.509**. La vetrina **Sites 149** descrive il Test Luna. Ogni 25 nuovi esiti verificati gli invii si fermano per il riesame. Ripartono con la nuova versione, dopo le correzioni e la qualifica in staging.
 
 [Strategia di testing e roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing) · [Documentazione SOPHIA](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md)
 
-The restricted beta remains on **0.7.231**. Standard staging is on **0.7.453**. Private preview **0.7.500** has technical qualification, and the two observed end-to-end tests ran on **0.7.495**. Test Luna pauses new submissions after every 25 verified correct outcomes and resumes on the next staging-qualified version after fixes. Counter acceptance and human clinical validation remain open.
+The restricted beta remains on **0.7.231**. Standard staging is on **0.7.453**. Private preview **0.7.511** is technically qualified to distinguish full PDFs from excerpts in receipts. The two observed end-to-end tests ran on **0.7.509**. Test Luna pauses new submissions after every 25 verified correct outcomes and resumes on the next staging-qualified version after fixes. Counter acceptance and human clinical validation remain open.
 
 ---
 
