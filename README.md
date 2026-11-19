@@ -1,10 +1,10 @@
 ## SOPHIA — 19 novembre 2026
 
-La beta riservata è alla **0.7.231**, con ripristino operativo da verificare. Lo staging ordinario è alla **0.7.453**. L’anteprima **0.7.521** ha superato 3.780 controlli locali e quattro riprove sulle fonti. La vetrina **Sites 158** documenta il riesame al 25º esito verificato prima di Sol.
+La beta riservata è alla **0.7.231**, con ripristino operativo da verificare. Lo staging ordinario è alla **0.7.453**. L’anteprima **0.7.522** ha superato 3.781 test applicativi e 13 regressioni mirate del lettore clinico. La vetrina **Sites 159** documenta il riesame al 25º esito verificato prima di Sol.
 
 [Strategia di testing e roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing) · [Documentazione SOPHIA](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md)
 
-The restricted beta is on **0.7.231** and standard staging is on **0.7.453**. Private preview **0.7.521** passed 3,780 local checks and four source replays. Test Luna paused after 25 verified outcomes. Counter acceptance and human clinical validation remain open.
+The restricted beta is on **0.7.231** and standard staging is on **0.7.453**. Private preview **0.7.522** passed 3,781 app tests and 13 targeted clinical-reader regressions. Test Luna paused after 25 verified outcomes. Counter acceptance and human clinical validation remain open.
 
 ---
 
