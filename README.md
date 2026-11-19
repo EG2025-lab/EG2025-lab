@@ -1,3 +1,13 @@
+## SOPHIA — 19 novembre 2026
+
+La beta riservata resta alla **0.7.231**, con ripristino operativo da verificare. Lo staging ordinario è alla **0.7.453**. L’anteprima **0.7.498** è qualificata tecnicamente e le due prove complete osservate riguardano la **0.7.495**. La vetrina **Sites 146** racconta il Test Luna, le correzioni ogni 50 nuovi casi verificati corretti e le prove complete a campione.
+
+[Strategia di testing e roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing) · [Documentazione SOPHIA](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md)
+
+The restricted beta remains on **0.7.231**. Standard staging is on **0.7.453**. Private preview **0.7.498** has technical qualification, and the two observed end-to-end tests ran on **0.7.495**. Counter acceptance and human clinical validation remain open.
+
+---
+
 ## Stato corrente verificato — 2026-11-11
 
 **SOPHIA 0.7.231 beta** è disponibile per gli utenti già autorizzati. La ricerca clinica dà priorità alle banche dati e può leggere fonti web pubbliche pertinenti quando mancano passaggi utilizzabili. Un abstract è dichiarato come tale. Gli stampati AIFA restano legati alla confezione e all’API ufficiale, con le incompatibilità esplicitate.
