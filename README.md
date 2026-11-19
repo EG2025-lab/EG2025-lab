@@ -1,10 +1,10 @@
 ## SOPHIA — 19 novembre 2026
 
-La beta riservata è alla **0.7.231**, con ripristino operativo da verificare. Lo staging ordinario è alla **0.7.453**. L’anteprima **0.7.529** ha superato 3.803 test applicativi. La vetrina **Sites 165** mostra il **Test Luna v1.2**, con tetto cumulativo di 20 USD e pausa ogni 25 nuovi esiti verificati, e il **Test completo v1.0** a campione in staging, fino a 10 domande reali e 4 USD per lotto.
+La beta riservata è alla **0.7.231** e lo staging ordinario è alla **0.7.453**. L’anteprima privata **0.7.560** ha superato **3.883 test applicativi** e le verifiche di continuità di profilo, memoria e cronologia. La vetrina **Sites 166** riporta la qualifica in corso e gli esiti del **Test completo 0.7.558**. Restano da completare l’accettazione al banco e la validazione clinica umana.
+
+The restricted beta is on **0.7.231**, standard staging is on **0.7.453** and private preview **0.7.560** passed **3,883 application tests** and profile, memory and history continuity checks. **Sites 166** reports release qualification progress and the 0.7.558 end-to-end results. Counter acceptance and human clinical validation remain open.
 
 [Strategia di testing e roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing) · [Documentazione SOPHIA](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md)
-
-The restricted beta is on **0.7.231** and standard staging is on **0.7.453**. Private preview **0.7.524** passed 3,790 app tests. Test Luna paused after 25 verified outcomes. Counter acceptance and human clinical validation remain open.
 
 ---
 
