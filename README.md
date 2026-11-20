@@ -1,10 +1,10 @@
-## SOPHIA — 19 novembre 2026
+## SOPHIA · 20 novembre 2026
 
-La **0.7.561** è attiva al 100% nella beta riservata e nello staging ordinario. Ha superato **3.886 test locali** e include l’accesso **Special Guest** su invito del titolare, senza PEC. Pagamenti e addebiti sul credito sono disattivati. Il rilascio è un’eccezione alla cadenza di una versione ogni 20, che riprende dalla **0.7.580**.
+Al checkpoint 600, **SOPHIA 0.7.602-beta** è stata qualificata al banco riservato e verificata sulla stessa immagine in staging. Nel campione generale 598, tre domande su dieci hanno soddisfatto tutti i criteri, due in parte e cinque hanno fallito. Le due chat mirate 602 hanno soddisfatto i rispettivi criteri. Il riuso della riga AIFA ha restituito il dato della confezione in 3,855 secondi in interfaccia. La domanda su due stampati ha richiesto 28,527 secondi lato server. L’accettazione al banco e la validazione clinica umana restano aperte.
 
-Version **0.7.561** serves 100% of standard staging and restricted beta traffic. It passed **3,886 local tests** and includes an owner-invited **Special Guest** route without certified email. Counter acceptance and human clinical validation remain open.
+La beta applica i crediti di servizio. I pagamenti sono disattivati. L’aggiornamento cumulativo successivo di GitHub e sito è previsto alla 0.7.620.
 
-[Stato pubblico · Sites 167](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Strategia di testing](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap#strategia-testing) · [Documentazione SOPHIA](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md)
+[Testing and limitations](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md) · [Stato e trasparenza](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Roadmap](https://sophia-pharmacy.enricogiuliano.chatgpt.site/roadmap)
 
 ---
 
