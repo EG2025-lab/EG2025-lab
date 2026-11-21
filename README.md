@@ -1,4 +1,14 @@
-## SOPHIA · 20 novembre 2026
+## Checkpoint 620 · 21 novembre 2026
+
+SOPHIA 0.7.620-beta è qualificata nella beta riservata. La promozione ha verificato le medesime immagini di app e bridge in staging e al banco. Tre turni successivi nella stessa conversazione hanno chiarito il periodo e conservato il contesto. Tre ulteriori richieste, con un controllo su mobile, hanno verificato la scheda di confezione, un seguito sulle interazioni e una domanda indipendente sugli stampati.
+
+In due nuove chat, SOPHIA ha riletto una pubblicazione italiana del produttore e collegato la variante a un passaggio già citato. Sulla stessa domanda, una chiamata Luna dedicata alla ricerca nella 619 e zero nella 620, con 22,195 e 11,773 secondi lato server. La parafrasi ha effettuato una ricerca indipendente. Questi confronti riguardano le richieste osservate. Restano aperti il collaudo professionale esteso e la validazione clinica umana.
+
+[Stato e trasparenza](https://sophia-pharmacy.enricogiuliano.chatgpt.site/transparency) · [Testing](https://github.com/EG2025-lab/sophia-pharmacy/blob/main/docs/TESTING.md)
+
+---
+
+## Checkpoint 600 · storico del 20 novembre 2026
 
 Al checkpoint 600, **SOPHIA 0.7.602-beta** è stata qualificata al banco riservato e verificata sulla stessa immagine in staging. Nel campione generale 598, tre domande su dieci hanno soddisfatto tutti i criteri, due in parte e cinque hanno fallito. Le due chat mirate 602 hanno soddisfatto i rispettivi criteri. Il riuso della riga AIFA ha restituito il dato della confezione in 3,855 secondi in interfaccia. La domanda su due stampati ha richiesto 28,527 secondi lato server. L’accettazione al banco e la validazione clinica umana restano aperte.
 
